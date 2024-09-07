@@ -1,2 +1,7 @@
 # Euclidean-algorithms
-This repo contains a python code for the simple euclidean algorithm and the advanced euclidean algorithm
+This repo contains a python code for the simple euclidean algorithm and the advanced euclidean algorithm.
+
+## Usage
+Simple Euclid
+python euclid.py {number1} {number2} -> returns greatest common devisor
+python adv_euclid.py {number1} {number2} -> returns x, y the coefficients of linear combination of greatest common divisor
